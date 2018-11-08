@@ -1,0 +1,8 @@
+#background{
+    -fx-background-color: black;
+    -fx-background-repeat: no-repeat;
+    -fx-background-image: url("background.png");
+    -fx-background-size: cover, auto;
+}
+
+
